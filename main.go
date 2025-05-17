@@ -14,16 +14,7 @@ type Product struct {
 	stock     int
 }
 
-/*
-TO DO LIST
-1. Cara penampilan stock**
-2. Tunjuin 'Tidak ada product' di Display function (sudah)
-3. Experiation Date nya  masih tahun(sudah)
-4. go back in every choices (sementara)
-5. limit tahunnya(sudah)
-6. urusin spasinya njing (aman)
 
-*/
 
 // declare array list
 var listProduct []Product
